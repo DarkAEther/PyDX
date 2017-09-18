@@ -1,3 +1,5 @@
+#this program will allow a user to enter the names of 2 cities and it will calculate the distance between them using Haversine
+#equation. This program involves JSON and web requests plus some intermediate level string handling.
 from math import *
 import requests
 citlist = set()
